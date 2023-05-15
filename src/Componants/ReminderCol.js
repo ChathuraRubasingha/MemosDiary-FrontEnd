@@ -37,7 +37,7 @@ const Wrapper = styled.div`
   margin: 10px 20px;
   width: 350px;
   height: 80px;
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.8);
   border-radius: 30px;
   transition: 0.8s cubic-bezier(0.2, 0.8, 0.2, 1);
   cursor: pointer;
